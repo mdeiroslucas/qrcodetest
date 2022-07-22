@@ -6,3 +6,4 @@ It's required to watch the SASS files in order to visualize the file properly, t
 
 ---
 ![qrcode-image](images/my-preview-image/qrcode-preview.png)
+=======
